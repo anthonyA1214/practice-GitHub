@@ -1,0 +1,29 @@
+body{
+    background-image: url("/assets/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table{
+    margin: auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    border-collapse: collapse;
+}
+
+td, th{
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.head{
+    font-size: 2em;
+}
+
+.head2{
+    font-size: 1.5em;
+}
