@@ -20,8 +20,18 @@ td, th{
     font-size: 1.2em;
 }
 
+.header-container {
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-img {
+    margin-top: 10px;
+}
+
+
 .head{
-    font-size: 2em;
+    font-size: 3em;
 }
 
 .head2{
